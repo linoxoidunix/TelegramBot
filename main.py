@@ -8,6 +8,7 @@ import telebot
 
 TOKEN = '2025832214:AAHEk3ZFcxsh1PQ4B_BbZkPsDE41KIhQhOg'
 PATH_TO_CALCULATOR = '/home/denis/Repos/MyRepo/TelBot/Calculator'''
+PATH_TO_CALCULATOR = "E:\Programming\MyPythonRepo\TelegramBot\Calculator.exe"
 
 bot = telebot.TeleBot(TOKEN)
 
